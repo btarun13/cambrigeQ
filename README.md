@@ -1,2 +1,2 @@
 # cambrigeQ
-This is answer to an assignment given
+Neural Network ensemble
